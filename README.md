@@ -12,7 +12,7 @@ I am passionate about building high quality **Android** and mobile applications.
 
 - Kotlin
 - Java
-- Typescript
+- Python
 - C#
 
 ### 🤔 I want to learn & do more ...
