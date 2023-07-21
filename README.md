@@ -17,15 +17,15 @@ I am passionate about building high quality **Android** and mobile applications.
 
 ### 🤔 I want to learn & do more ...
 
-- Apps that leverage GPT api
+- Apps that leverage generative AI
 - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), particularly [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
 - Game dev
 
 ### 💡 Fun facts
 
-- First generation American with Jamaican roots. Jamerican! 🇺🇸🇯🇲
-- My first ever project was a keygen for [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) written in Visual Basic
-- Competitive Pokemon enthusiast
+- I'm a first generation American with Jamaican roots. Jamerican! 🇺🇸🇯🇲
+- My first ever project was a keygen for [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) written in Visual Basic.
+- If I could have any superpower I'd choose... teleportation
 
 ### ✉️ Contact
 
