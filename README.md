@@ -24,8 +24,8 @@ I am passionate about building high quality **Android** and mobile applications.
 ### 💡 Fun facts
 
 - First generation American with Jamaican roots. Jamerican! 🇺🇸🇯🇲
-- My first program ever was a keygen for [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights)...
-- ...I made it in high school using Visual Basic
+- My first ever project was a keygen for [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) written in Visual Basic
+- Competitive Pokemon enthusiast
 
 ### ✉️ Contact
 
