@@ -25,7 +25,7 @@ I am passionate about building high quality **Android** and mobile applications.
 
 - I'm a first generation American with Jamaican roots. Jamerican! 🇺🇸🇯🇲
 - My first ever project was a keygen for [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) written in Visual Basic.
-- If I could have any superpower I'd choose... teleportation
+- If I could have any superpower I'd choose... teleportation!
 
 ### ✉️ Contact
 
