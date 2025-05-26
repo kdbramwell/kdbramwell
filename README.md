@@ -4,14 +4,15 @@ I am passionate about building high quality **Android** and mobile applications.
 
 ### 💻 Technology 
 
+- AI
 - Android 
 - Firebase
-- Unity3D
 
 ### 🧠 Languages 
 
+- Vibe Coding
 - Kotlin
-- Java
+- Swift
 - Python
 - C#
 
