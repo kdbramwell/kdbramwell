@@ -4,7 +4,7 @@ I am passionate about building high quality **Android** and mobile applications.
 
 ### 💻 Technology 
 
-- MCP & Agentic delegation
+- MCP & agentic delegation
 - Android 
 - Firebase
 
