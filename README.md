@@ -4,23 +4,17 @@ I am passionate about building high quality **Android** and mobile applications.
 
 ### 💻 Technology 
 
-- AI
+- MCP & Agentic delegation
 - Android 
 - Firebase
 
-### 🧠 Languages 
+### 🧠 Programming Languages 
 
-- Vibe Coding
+- English
 - Kotlin
 - Swift
 - Python
 - C#
-
-### 🤔 I want to learn & do more ...
-
-- Apps that leverage generative AI
-- [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), particularly [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
-- Game dev
 
 ### ✉️ Contact
 
