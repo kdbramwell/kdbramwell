@@ -1,12 +1,14 @@
 # Hi! I'm Kam ✌🏾👨🏾‍💻
 
-I am passionate about building high quality **Android** and mobile applications.
+I am passionate about building high quality software solutions.
 
 ### 💻 Technology 
 
 - MCP & agentic delegation
-- Android 
+- Android
+- iOS
 - Firebase
+- AWS
 
 ### 🧠 Programming Languages 
 
