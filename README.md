@@ -2,7 +2,7 @@
 
 I am passionate about building high quality software solutions. 
 
-Call me old-fashioned, but I actually enjoy writing code. AI is a regular part of my workflow but it doesn't take the wheel. I carefully review the output before accepting and would never, ever call myself a vibe-coder. 
+Call me old-fashioned, but I actually enjoy writing code. AI is thoughtfully applied to my workflow and doesn't take the wheel. I carefully review the output before accepting and would never call myself a vibe-coder. 
 
 Now that's out the way, take a look at my latest projects, and long live H.I. (human intelligence).
 
