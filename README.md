@@ -25,7 +25,6 @@ Currently an MVP launch, there are many more features to come if this approach t
     <td><img src="https://github.com/user-attachments/assets/3ddf8791-6cc2-4302-a6b2-b1bf884c3a07" width="300" alt="Introduce Yourself"></td>
     <td><img src="https://github.com/user-attachments/assets/60fb56f1-38c4-44b3-96d7-d387b5d43eb2" width="300" alt="Confirm join space"></td>
         <td><img src="https://github.com/user-attachments/assets/76621929-5dae-4a6a-9310-f83ccb892351" width="300" alt="Create space"></td>
-        <td><img src="https://github.com/user-attachments/assets/fb42eb24-3cfc-4636-850f-4b8830dbcf66" width="300" alt="Confirm create space"></td>
   </tr>
 </table>
 
