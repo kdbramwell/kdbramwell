@@ -1,10 +1,6 @@
 # Hi! I'm Kam ✌🏾👨🏾‍💻
 
-I am passionate about building high quality software solutions. 
-
-Call me old-fashioned, but I actually enjoy writing code. AI is thoughtfully applied to my workflow and doesn't take the wheel. I carefully review the output before accepting and would never call myself a vibe-coder. 
-
-Now that's out the way, take a look at my latest projects, and long live H.I. (human intelligence).
+I am passionate about building high quality software solutions. I've been creating applications for over 20 years, with 12 of those years devoted to mobile (Android & iOS) software. 
 
 ## 📲 Latest Projects 
 
@@ -12,7 +8,7 @@ Now that's out the way, take a look at my latest projects, and long live H.I. (h
 
 The community-based structure of Reddit meets gender-gated topics so everyone can create a safe space for their discussions. 
 
-On the technical side: Android and iOS versions share a unified codebase thanks to Kotlin & Compose Multiplatform. Firebase backend (Authentication, Crashlytics, Remote Config, Firestore) keeps the app low-cost and scalable. Human intelligence did the heavy lifting with light assistance from AI, mostly in the form of auto-complete using established patterns.
+On the technical side: Android and iOS versions share a unified codebase thanks to Kotlin & Compose Multiplatform. Firebase backend (Authentication, Crashlytics, Remote Config, Firestore) keeps the app low-cost and scalable. 
 
 Currently an MVP launch, there are many more features to come if this approach to restricted communities gains validation.
 
