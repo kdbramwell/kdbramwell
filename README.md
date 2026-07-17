@@ -1,6 +1,6 @@
 # Hi! I'm Kam ✌🏾👨🏾‍💻
 
-I am passionate about building high quality software solutions. I've been creating applications for over 20 years, with the last 12 years devoted to mobile (Android & iOS) apps. 
+I am passionate about building high quality software solutions. I've been developing applications for over 20 years, with the last 12 years devoted to mobile (Android & iOS) apps. 
 
 ## 📲 Latest Projects 
 
