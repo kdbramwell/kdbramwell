@@ -13,7 +13,7 @@ On the technical side: Android and iOS versions share a unified codebase thanks 
 Currently an MVP launch, there are many more features to come if this approach to restricted communities gains validation.
 
 - [Spaces for Android](https://play.google.com/store/apps/details?id=com.kambram.barbershop)
-- Spaces for iOS (coming soon!)
+- [Spaces for iOS](https://apps.apple.com/us/app/spaces-gated-communities/id6789685434)
 
 <table>
   <tr>
