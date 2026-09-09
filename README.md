@@ -1,9 +1,22 @@
-[Home](./README.md) | [About](./about.md) | [Projects](./projects.md) | [Contact](./contact.md)
+# Kamal Bramwell
+
+**Senior Mobile Engineer & Software Architect**  
+Specializing in Kotlin Multiplatform, modern declarative UI (Jetpack Compose / Compose Multiplatform), and clean architecture.
+
+🌐 **Portfolio & Case Studies:** [kamalbramwell.com](https://kamalbramwell.com)  
+📫 **Get in Touch:** [peaks_barques0c@icloud.com](mailto:peaks_barques0c@icloud.com)
 
 ---
 
-# Hi! I'm Kam ✌🏾👨🏾‍💻
+### 🛠 Tech & Architecture
+- **Platforms & Frameworks:** Kotlin Multiplatform (KMP), Android SDK, iOS (Compose Multiplatform / Swift), Jetpack Compose
+- **Architecture & Quality:** Clean Architecture, Offline-First / SQLDelight, Strict TDD (Manual Fakes), CI/CD Automation
+- **AI-Augmented Engineering:** Leveraging autonomous agents, LLM orchestration, and multi-agent CI for execution velocity—tightly governed by strict TDD, architectural constraints, and automated PR review pipelines.
+- **Backend & Cloud:** Firebase, Serverless Edge Workers, Cloudflare
 
-Welcome to my profile! I'm passionate about building reliable, scalable, and easily maintainable software solutions. I've been developing applications for over 20 years, with the last 12 years devoted to mobile (Android & iOS) apps.
+---
 
-Feel free to explore my background, check out my latest projects, or reach out to connect!
+### 🚀 What I'm Building
+- **[kamalbramwell.com](https://kamalbramwell.com):** Deep-dive architecture writeups, case studies, and engineering philosophy.
+- **Fyeo:** Zero-dependency end-to-end encrypted messaging engine powering **5,000+ users**. Built with Kotlin Multiplatform and Compose.
+- **Spaces:** Production cross-platform community app built with Compose Multiplatform & Firebase.
