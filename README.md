@@ -4,7 +4,7 @@
 Specializing in Kotlin Multiplatform, modern declarative UI (Jetpack Compose / Compose Multiplatform), and clean architecture.
 
 🌐 **Portfolio & Case Studies:** [kamalbramwell.com](https://kamalbramwell.com)  
-📫 **Get in Touch:** [peaks_barques0c@icloud.com](mailto:peaks_barques0c@icloud.com)
+📫 **Get in Touch:** [hello@kamalbramwell.com](mailto:hello@kamalbramwell.com)
 
 ---
 
